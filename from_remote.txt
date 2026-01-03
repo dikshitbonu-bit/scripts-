@@ -4,10 +4,7 @@ this is a message from local git bitch
 
 hi from vs code bitch 
 
-this commit is fine 
+this is a fine commit
 
 
-
-this is not a fine commit bitch
-
-this is also a fine commit 
+this is also a fine commit
