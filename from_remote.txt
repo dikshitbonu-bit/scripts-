@@ -5,3 +5,7 @@ this is a message from local git bitch
 hi from vs code bitch 
 
 this commit is fine 
+
+
+
+this is not a fine commit bitch 
